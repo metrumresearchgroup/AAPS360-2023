@@ -1,6 +1,6 @@
 # AAPS360-2023
 Supporting materials for conference poster M1030-10-64
-![metrm](./pics/metrum_new_logo greyscale.png)
+![./pics/metrum_new_logo greyscale.png](https://github.com/metrumresearchgroup/AAPS360-2023/blob/main/pics/metrum_new_logo%20greyscale.png)
 
 ## Link to supporting code 
 Matthew Wiens created [this page](https://github.com/metrumresearchgroup/confounded-exposure-metrics) and also wrote a perspective paper (submitted, see reference, below), which was the premise of the poster
